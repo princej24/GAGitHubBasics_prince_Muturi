@@ -12,6 +12,8 @@ namespace GAGitHubBasics_prince_Muturi
         {
             Console.WriteLine("Hello, Professor.");
 
+            Console.WriteLine(" Hello, my name is Prince. In computer science, I want to learn how to build good work habits.");
+
 
         }
     }
