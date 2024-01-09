@@ -10,7 +10,7 @@ namespace GAGitHubBasics_prince_Muturi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine( " hello  world ");
+            Console.WriteLine("Hello, Professor.");
 
 
         }
